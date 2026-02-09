@@ -1,0 +1,11 @@
+https://google.com
+http://githup.com
+example.com
+testsite.org
+portswigger.net
+github.com in Bing
+https://portswigger.net
+https://tryhackme.com
+https://academy.hackthebox.com
+htttps://www.vulnhub.com
+https://owasp.org/www-project-juice-shop
